@@ -4,9 +4,9 @@
 A dataset containing information collected by the U.S Census Service concerning housing in the area of Boston Mass has been given.The dataset contains 14 variables. 
 
 ## Aim:
-• To perform Exploratory Data Analysis and understand the given data
-• To predict Nitrous Oxide Levels for a given value of other variables
-• To predict the median value of the House.
+- To perform Exploratory Data Analysis and understand the given data
+- To predict Nitrous Oxide Levels for a given value of other variables
+- To predict the median value of the House.
 
 ## About the Data:
 From the given dataset, we can see that there are 14 columns and 506 rows. After checking for duplicates, we observe that there are no duplicates and we retain the dataset as it is.
